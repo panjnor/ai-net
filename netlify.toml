@@ -1,0 +1,5 @@
+[[redirects]]
+from = "/*"
+to = "ai.rimotsu.dpdns.org/:splat" 
+status = 200
+force = true
